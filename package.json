@@ -1,0 +1,23 @@
+{
+  "name": "electray",
+  "version": "0.0.1",
+  "description": "Universal menubar application platform running Electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pontusab/electray.git"
+  },
+  "keywords": [
+    "Menubar",
+    "Electron"
+  ],
+  "author": "Pontus Abrahamsson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pontusab/electray/issues"
+  },
+  "homepage": "https://github.com/pontusab/electray#readme"
+}
